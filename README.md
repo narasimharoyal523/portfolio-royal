@@ -13,22 +13,21 @@ A modern React.js portfolio site built with Material UI and React Router.
 ## 🛠 Installation
 
 1. Clone the repo or unzip the folder:
-git clone https://github.com/your-username/portfolio-royal.git
-cd portfolio-royal
+   ```bash
+   git clone https://github.com/your-username/portfolio-royal.git
+   cd portfolio-royal
 
-markdown
-Copy code
 
 2. Install dependencies:
-npm install
+   ```bash
+   npm install
 
-markdown
-Copy code
 
 3. Start the development server:
-npm start
+   ```bash
+   npm start
 
-yaml
-Copy code
 
-4. Visit: `http://localhost:3000`
+4. Visit:
+   ```bash
+    http://localhost:3000
