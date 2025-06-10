@@ -40,8 +40,8 @@ function Contact() {
               <GitHubIcon />
             </ListItemIcon>
             <ListItemText>
-              <Link href="https://github.com/" target="_blank" rel="noopener">
-                github.com/your-profile
+              <Link href="https://github.com/narasimharoyal523" target="_blank" rel="noopener">
+                github.com/profile
               </Link>
             </ListItemText>
           </ListItem>
@@ -51,7 +51,7 @@ function Contact() {
             </ListItemIcon>
             <ListItemText>
               <Link
-                href="https://www.linkedin.com/in/k-narasimha-royal-83a0682b6"
+                href="https://www.linkedin.com/in/narasimha-royal-kasetti-83a0682b6/"
                 target="_blank"
                 rel="noopener"
               >
