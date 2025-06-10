@@ -1,7 +1,6 @@
-import React from 'react';
-import { Box, Typography, Link, Stack, IconButton } from '@mui/material';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import { Box, IconButton, Link, Stack, Typography } from '@mui/material';
 
 const Footer = () => {
   return (
@@ -27,12 +26,12 @@ const Footer = () => {
           Contact: <Link href="mailto:narasimharoyal523@gmail.com" color="inherit" underline="hover">narasimharoyal523@gmail.com</Link> | Phone: 9515671090
         </Typography>
         <Stack direction="row" spacing={1} justifyContent="center" alignItems="center">
-          <Link href="https://github.com/k-narasimha-royal" target="_blank" rel="noopener" color="inherit" underline="none">
+          <Link href="https://github.com/narasimharoyal523" target="_blank" rel="noopener" color="inherit" underline="none">
             <IconButton aria-label="GitHub" color="inherit" size="small">
               <GitHubIcon />
             </IconButton>
           </Link>
-          <Link href="https://www.linkedin.com/in/k-narasimha-royal-83a0682b6" target="_blank" rel="noopener" color="inherit" underline="none">
+          <Link href="https://www.linkedin.com/in/narasimha-royal-kasetti-83a0682b6/" target="_blank" rel="noopener" color="inherit" underline="none">
             <IconButton aria-label="LinkedIn" color="inherit" size="small">
               <LinkedInIcon />
             </IconButton>
